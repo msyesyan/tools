@@ -1,0 +1,41 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "node_modules",
+    "coverage",
+    "tmp",
+    "log",
+    "dist"
+  ],
+  "font_face": "consolas",
+  "font_size": 14,
+  "highlight_modified_tabs": false,
+  "ignored_packages":
+  [
+    "FileManager",
+    "Markdown",
+    "MarkdownLivePreview",
+    "Six",
+    "Vintage",
+    "Vintageous",
+    "yardoc"
+  ],
+  "neovintageous_build_version": 11100,
+  "rulers":
+  [
+    120
+  ],
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "vintageous_use_ctrl_keys": true,
+  "vintageous_use_super_keys": null
+}
